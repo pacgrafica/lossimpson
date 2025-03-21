@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFD90F;
+}
+
+@font-face {
+    font-family: "Simpsonfont";
+    src: url(../fonts/simpsonfont.otf) format(opentype);
+  }
+
+h2 {
+    font-family: "Simpsonfont";
+    color: azure;
+}
+
+.sinMargen {
+    padding: 0;
+}
